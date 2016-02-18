@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Wrecker Example</title>
+    <link>https://bsauer.github.io/hugo-wercker-example/</link>
+    <description>Recent content on Hugo Wrecker Example</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Feb 2016 10:10:46 -0700</lastBuildDate>
+    <atom:link href="https://bsauer.github.io/hugo-wercker-example/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>contact</title>
+      <link>https://bsauer.github.io/hugo-wercker-example/contact/</link>
+      <pubDate>Thu, 18 Feb 2016 10:10:46 -0700</pubDate>
+      
+      <guid>https://bsauer.github.io/hugo-wercker-example/contact/</guid>
+      <description>
+
+&lt;h1 id=&#34;hello-there:3c4864f00d23f7ea35511ec930ce1d9c&#34;&gt;Hello There&lt;/h1&gt;
+
+&lt;p&gt;This is my contact info&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://bsauer.github.io/hugo-wercker-example/about/</link>
+      <pubDate>Wed, 17 Feb 2016 22:07:52 -0700</pubDate>
+      
+      <guid>https://bsauer.github.io/hugo-wercker-example/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
